@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Dashboard2
+![Dashboard](dashboard.png)
 # 📊 E-commerce Sales Dashboard (SQL + Excel)
 
 ## Overview
